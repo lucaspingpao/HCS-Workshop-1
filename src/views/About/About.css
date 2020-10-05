@@ -1,7 +1,11 @@
 .intro-background {
+  display: flex;
+  flex-direction: row;
 }
 
 .intro-item {
+  display: flex;
+  flex: 1;
 }
 
 .intro-item h1,
@@ -16,6 +20,5 @@ li {
 }
 
 .intro-picture {
-  width: 100%;
-  height: 100%;
+  width: 75%;
 }
