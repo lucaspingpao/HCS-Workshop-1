@@ -1,15 +1,11 @@
-## Your Name
+## Lucas Pao
 
-Welcome to my website!
+Welcome to my website! Currently needs a lot of refining, but all the basic components are there.
 
 ### Added Feature #1
 
-Description
-
-Screenshots
+Added some fun facts on the About page
 
 ### Added Feature #2
 
-Description
-
-Screenshots
+Added an Education section
